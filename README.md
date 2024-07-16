@@ -42,3 +42,6 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **Dynamic Navigation Styling**: Navigation bar changes style upon scrolling past the hero section.
 - **Image Lightbox**: Clickable images open in a full-screen lightbox with next and previous navigation.
 - **Responsive Grid Layout**: Images are displayed in a responsive grid layout, adjusting for various screen sizes.
+
+## Update Instructions
+Check out [this link](docs/update_instructions.md) for instructions on how to update the html
